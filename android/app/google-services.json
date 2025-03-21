@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "412358666396",
+    "firebase_url": "https://ehealthsolution-8e2b6-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ehealthsolution-8e2b6",
+    "storage_bucket": "ehealthsolution-8e2b6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412358666396:android:154f461d7160c02fb8a559",
+        "android_client_info": {
+          "package_name": "com.example.ehealthsolution"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412358666396-mifhr0p1b1hqs21b6lei7t7ai47im3vm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ehealthsolution",
+            "certificate_hash": "27ed962f0ba721dff24696e9c3eb078d6e0f1df3"
+          }
+        },
+        {
+          "client_id": "412358666396-l6lrufqppb81ov9pg6bfiua4sbc5b1rm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7pX5OZNG2DAjhhOAPbqn5HHbxkVm4a_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412358666396-l6lrufqppb81ov9pg6bfiua4sbc5b1rm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
